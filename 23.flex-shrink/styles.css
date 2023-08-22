@@ -1,0 +1,54 @@
+.container {
+    border: 6px solid lightgray;
+    display: flex;
+    width: 800px;
+}
+
+.flex-item {
+    color: black;
+    font-size: 2rem;
+    padding: 1rem;
+    width: 150px;
+
+}
+
+.item-1 {
+    background-color: lightblue;
+
+}
+
+.item-2 {
+    background-color: lightcoral;
+
+}
+
+.item-3 {
+    background-color: aquamarine;
+
+
+}
+
+.item-4 {
+    background-color: lightgrey;
+
+}
+
+.item-5 {
+    background-color: orange;
+
+}
+
+.item-6 {
+    background-color: azure;
+
+}
+
+.item-7 {
+    background-color: wheat;
+
+}
+
+.item-8 {
+    background-color: cadetblue;
+
+}
